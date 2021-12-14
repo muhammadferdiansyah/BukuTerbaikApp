@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ReadBook</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Di Balik Senja</string>
+    <string name="tanggal">senin-19-November-2021</string>
+    <string name="author">amon gus</string>
+    <string name="content_news">Novel</string>
+    <string name="content_image_news_detail">Image Book Detail</string>
+    <string name="seperate">|seperate</string>
+</resources>
